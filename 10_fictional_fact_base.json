@@ -1,0 +1,48 @@
+{
+  "entity": {
+    "brand_name": "星舟创意（虚构）",
+    "company_full_name": "星舟创意实验室（虚构）",
+    "service_region": [
+      "示例城市"
+    ],
+    "primary_language": "中文",
+    "disclaimer": "全部资料为虚构，仅用于产品演示"
+  },
+  "confirmed_positioning": {
+    "primary_positioning": "为中小企业提供创意视频与内容策划服务（虚构）",
+    "target_customers": [
+      "示例制造企业",
+      "示例消费品牌"
+    ]
+  },
+  "confirmed_services": [
+    {
+      "service_name": "企业视频策划",
+      "description": "从脚本到成片的内容服务（虚构）"
+    },
+    {
+      "service_name": "AI创意视频",
+      "description": "采用公开工具制作创意素材（虚构）"
+    }
+  ],
+  "allowed_claims": [
+    "提供企业视频策划（虚构）"
+  ],
+  "unsupported_or_forbidden_claims": [
+    {
+      "claim": "行业第一",
+      "reason": "示例事实库没有排名证据",
+      "severity": "high"
+    }
+  ],
+  "competitor_watchlist": [
+    {
+      "name": "云帆工作室（虚构）",
+      "category": "创意视频",
+      "watch_reason": "模拟竞品占位"
+    }
+  ],
+  "preferred_message": {
+    "summary": "以事实为依据，不编造客户、资质或排名"
+  }
+}

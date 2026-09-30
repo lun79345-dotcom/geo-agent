@@ -1,0 +1,151 @@
+{
+  "results": [
+    {
+      "question_id": "Q001",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q002",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q003",
+      "brand_mentioned": false,
+      "brand_recommended": false,
+      "risk_level": "低",
+      "competitors": [
+        "云帆工作室（虚构）"
+      ],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q004",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q005",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q006",
+      "brand_mentioned": false,
+      "brand_recommended": false,
+      "risk_level": "低",
+      "competitors": [
+        "云帆工作室（虚构）"
+      ],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q007",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q008",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q009",
+      "brand_mentioned": false,
+      "brand_recommended": false,
+      "risk_level": "低",
+      "competitors": [
+        "云帆工作室（虚构）"
+      ],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q010",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q011",
+      "brand_mentioned": true,
+      "brand_recommended": true,
+      "risk_level": "低",
+      "competitors": [],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    },
+    {
+      "question_id": "Q012",
+      "brand_mentioned": false,
+      "brand_recommended": false,
+      "risk_level": "低",
+      "competitors": [
+        "云帆工作室（虚构）"
+      ],
+      "accurate_claims": [
+        "模拟服务范围"
+      ],
+      "recommended_fix": "完善品牌事实页（模拟）"
+    }
+  ],
+  "summary": {
+    "total": 12,
+    "brand_mentioned": 8,
+    "brand_recommended": 8
+  },
+  "generated_at": "2026-01-01T00:00:00",
+  "disclaimer": "全部分析来自虚构样本"
+}
